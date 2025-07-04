@@ -32,4 +32,3 @@ No main.dart é criada a class MyApp chama a tela SplashScreen(), no arquivo spl
 
 
 
-Ao executar o aplicativo o usuário verá a tela de carregamento(SplashScreen) e a barra de carregamento irá se atualizar. Após a tela de carregamento o usuário estará na tela principal do app, onde ele pode ver as notas ja criadas ou clicar no botão no canto inferior direito para criar uma nova nota.
