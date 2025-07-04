@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "360032693198",
+    "project_id": "provamobile2bim2025",
+    "storage_bucket": "provamobile2bim2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360032693198:android:4a20fadd026736fcc1999f",
+        "android_client_info": {
+          "package_name": "com.example.notasapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBINX0n0keMKUreWIQKvktgwW0d28mVw4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360032693198:android:5222594729655cb2c1999f",
+        "android_client_info": {
+          "package_name": "com.example.teste_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBINX0n0keMKUreWIQKvktgwW0d28mVw4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
