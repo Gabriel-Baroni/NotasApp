@@ -16,7 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-# *************************DESCRIÇÃO CRIADA PELOS ALUNOS********************
+# DESCRIÇÃO CRIADA PELOS ALUNOS
 
 # O que foi usado que não foi ensinado: 
 - Exclusão de dados (splash_screen.dart: linha 208)
