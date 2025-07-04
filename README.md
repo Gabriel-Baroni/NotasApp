@@ -21,8 +21,8 @@ samples, guidance on mobile development, and a full API reference.
 # O que foi usado que não foi ensinado: 
 - Exclusão de dados (splash_screen.dart: linha 208)
 - Update de dados (splash_screen.dart: linha 193)
-- Inserir dados (splash_creen.dart: linha 186)
-- Textfield e controladores de texto
+- Inserir dados (splash_screen.dart: linha 186)
+- Textfield e controladores de texto (splash_screen.dart: linhas 234 e 239) 
 - Timer.periodic (splash_screen.dart: linha 22)
 - Barras de carregamento (splash_screen.dart: linhas 62 e 95)
  
